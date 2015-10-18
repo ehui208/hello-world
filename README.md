@@ -1,2 +1,5 @@
 # hello-world
-just another repsitory
+
+hi humans!
+
+ehui208 here, i like google, raspberrypi
